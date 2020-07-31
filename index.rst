@@ -5,11 +5,10 @@ A Global Identification Architecture
    :maxdepth: 2
    :caption: Contents:
 
-
+   core/intro
+   genindex
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
