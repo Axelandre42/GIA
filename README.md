@@ -44,7 +44,7 @@ issue (`issue-number-coming-here`).*
    2. Get the source using `git clone https://github.com/Axelandre42/GIA.git`
       (requires Git installed on your computer).
 2. Build HTML documents with `make html`.
-3. Build the PDF document with `make pdf`.
+3. ~~Build the PDF document with `make pdf`.~~
 
 Contribute
 ----------
