@@ -22,3 +22,31 @@ This documents suggests a workflow based on OpenID Connect 1.0 [OIDC]_
 This document scope is to every organisation who needs
 to deal with identification and authentication.
 
+Definitions
+-----------
+
+.. index::
+   pair: end user; user
+
+end user
+   A person using a service and who got an identity through an identification provider.
+
+.. index::
+   pair: identification provider; provider
+
+identification provider
+   An organisation that provides identity to end users trough this standard.
+
+.. index::
+   signle: relying party
+
+relying party
+   A service provider that relies on this standard to retrieve identity for an end user.
+
+Requirement Notation
+--------------------
+
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL
+NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and
+"OPTIONAL" in this document are to be interpreted as described in
+[RFC2119]_

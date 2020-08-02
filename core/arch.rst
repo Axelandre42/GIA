@@ -1,0 +1,4 @@
+Core architecture
+=================
+
+TBD.

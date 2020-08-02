@@ -6,5 +6,6 @@ A Global Identification Architecture
    :caption: Contents:
    
    core/intro
+   core/arch
    core/workflow
    core/references
